@@ -45,4 +45,4 @@ Demonstrar que o agronegócio e a preservação ambiental podem caminhar juntos 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome**.
+Desenvolvido por **Christian Luiz Schein**.
